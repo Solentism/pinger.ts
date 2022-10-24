@@ -1,6 +1,6 @@
 {
-  "name": "@hystleria/pinger",
-  "version": "3.0.1",
+  "name": "pinger.ts",
+  "version": "1.0.0",
   "description": "A simple website pinger!",
   "main": "dist/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "glitch"
   ],
   "author": "Kieran Schuler",
-  "license": "ISC",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/picturebooks/pinger.ts/issues"
   },
