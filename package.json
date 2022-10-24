@@ -1,0 +1,37 @@
+{
+  "name": "@hystleria/pinger",
+  "version": "3.0.1",
+  "description": "A simple website pinger!",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picturebooks/pinger.ts.git"
+  },
+  "keywords": [
+    "ping",
+    "websitepinger",
+    "pinger",
+    "replituptime",
+    "glitchuptime",
+    "replit",
+    "glitch"
+  ],
+  "author": "Kieran Schuler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/picturebooks/pinger.ts/issues"
+  },
+  "homepage": "https://github.com/picturebooks/pinger.ts#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js": "^14.6.0",
+    "express": "^4.17.3"
+  },
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^18.11.4"
+  }
+}
