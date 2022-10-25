@@ -1,4 +1,4 @@
-const pinger = require('./index')
+const pinger = require('./dist/index.js');
 pinger.ping("discord.com", 2000, true);
 pinger.webserver(8080)
 
