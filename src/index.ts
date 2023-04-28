@@ -6,12 +6,14 @@ const app = express();
 app.use(express.static("public"));
 
 /**
- * Copyright (c) 2022, Kieran Schuler (picturebooks // kieran@k1e.io)
+ * Copyright (c) 2023, Kieran Schuler (uhio // kieran@k1e.io)
  *
- * https://github.com/picturebooks/pinger.ts
+ * https://github.com/uhio/pinger.ts
  * 
  * This code is subject to the BSD 3-Clause "New" or "Revised" License authored by Regents of the University of California.
  * Information about this license can be found in the LICENSE.md file.
+ *
+ * pinger.ts recieved its most recent update on the 28th of April 2023
  
  * Ping a website
  * @param {website} The website to ping
